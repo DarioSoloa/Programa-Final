@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1573060846 source:c:\users\dario\documents\github\programa-final\final sin archivo\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	<algorithm>
+
